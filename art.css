@@ -1,0 +1,22 @@
+body {
+    background-color: papayawhip;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+}
+    
+.navbar li {
+    display:inline-block;
+    list-style:none;
+    text-align: center;
+    
+}
+
+.navbar {
+    text-decoration:none;
+    padding: 5px;
+    font-size: 30px;
+    
+}

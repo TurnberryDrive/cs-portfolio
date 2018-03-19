@@ -1,0 +1,21 @@
+.navbar {
+    background-color: papayawhip;
+    text-align: center;
+}
+
+.navbar {
+    text-decoration:none;
+    padding: 5px;
+    font-size: 23px;
+    
+}
+
+.navbar li {
+    display:inline-block;
+    list-style:none;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: white;
+}
